@@ -1,0 +1,20 @@
+package io.keiji.serializerbenchmark.common;
+
+option java_package = "io.keiji.serializerbenchmark.common";
+
+message SampleData {
+  required int64 id = 1;
+  required string name = 2;
+  required int32 age = 3;
+  required Gender gender = 4 [default = Female];
+  required int32 isMegane = 5;
+
+  enum Gender {
+    Female = 0;
+    Male = 1;
+  }
+}
+
+message SampleList {
+  repeated SampleData sampleData = 1;
+}

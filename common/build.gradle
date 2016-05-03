@@ -26,4 +26,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.3.0'
     androidTestCompile 'com.android.support:support-annotations:23.3.0'
     androidTestCompile 'com.android.support.test:runner:0.3'
+
+    compile 'com.google.protobuf:protobuf-java:2.6.1'
 }

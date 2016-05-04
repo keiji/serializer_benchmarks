@@ -1,0 +1,43 @@
+05-04 15:37:35.275 31828-31846/? D/ParcelableTest: Device: bullhead
+                                                   serialize:   duration -> 412136ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 300833ns
+05-04 15:37:35.276 31828-31846/? D/ParcelableTest: Device: bullhead
+                                                   serialize:   duration -> 209322ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 187865ns
+05-04 15:37:35.277 31828-31846/? D/ParcelableTest: Device: bullhead
+                                                   serialize:   duration -> 202916ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 205781ns
+05-04 15:37:35.278 31828-31846/? D/ParcelableTest: Device: bullhead
+                                                   serialize:   duration -> 210208ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 197448ns
+05-04 15:37:35.279 31828-31846/? D/ParcelableTest: Device: bullhead
+                                                   serialize:   duration -> 201719ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 189740ns
+
+--------
+
+05-04 15:37:46.377 16551-16565/? D/ParcelableTest: Device: sprat
+                                                   serialize:   duration -> 716979ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 645000ns
+05-04 15:37:46.378 16551-16565/? D/ParcelableTest: Device: sprat
+                                                   serialize:   duration -> 416511ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 441250ns
+05-04 15:37:46.379 16551-16565/? D/ParcelableTest: Device: sprat
+                                                   serialize:   duration -> 405208ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 437760ns
+05-04 15:37:46.380 16551-16565/? D/ParcelableTest: Device: sprat
+                                                   serialize:   duration -> 406823ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 456562ns
+05-04 15:37:46.381 16551-16565/? D/ParcelableTest: Device: sprat
+                                                   serialize:   duration -> 404792ns
+                                                                size -> 1324bytes
+                                                   deserialize: duration -> 438646ns

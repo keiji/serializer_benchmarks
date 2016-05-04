@@ -1,0 +1,43 @@
+05-04 11:30:50.543 20939-20955/? D/KryoTest: Device: bullhead
+                                             serialize:   duration -> 4319635ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 543906ns
+05-04 11:30:50.545 20939-20955/? D/KryoTest: Device: bullhead
+                                             serialize:   duration -> 867188ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 317084ns
+05-04 11:30:50.547 20939-20955/? D/KryoTest: Device: bullhead
+                                             serialize:   duration -> 778802ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 303385ns
+05-04 11:30:50.548 20939-20955/? D/KryoTest: Device: bullhead
+                                             serialize:   duration -> 839063ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 298750ns
+05-04 11:30:50.550 20939-20955/? D/KryoTest: Device: bullhead
+                                             serialize:   duration -> 774063ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 293802ns
+
+---------------
+
+05-04 11:31:09.233 26264-26278/? D/KryoTest: Device: sprat
+                                             serialize:   duration -> 31355624ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 1913750ns
+05-04 11:31:09.239 26264-26278/? D/KryoTest: Device: sprat
+                                             serialize:   duration -> 3579948ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 1204583ns
+05-04 11:31:09.243 26264-26278/? D/KryoTest: Device: sprat
+                                             serialize:   duration -> 3165416ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 1159323ns
+05-04 11:31:09.248 26264-26278/? D/KryoTest: Device: sprat
+                                             serialize:   duration -> 3229010ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 1155833ns
+05-04 11:31:09.253 26264-26278/? D/KryoTest: Device: sprat
+                                             serialize:   duration -> 3149583ns
+                                                          size -> 511bytes
+                                             deserialize: duration -> 1146146ns

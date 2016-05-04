@@ -1,0 +1,43 @@
+05-03 20:16:36.192 8381-8395/? D/SerializeTest: Device: bullhead
+                                                serialize:   duration -> 10464739ns
+                                                             size -> 1353bytes
+                                                deserialize: duration -> 2514374ns
+05-03 20:16:36.196 8381-8395/? D/SerializeTest: Device: bullhead
+                                                serialize:   duration -> 660625ns
+                                                             size -> 1353bytes
+                                                deserialize: duration -> 1615990ns
+05-03 20:16:36.198 8381-8395/? D/SerializeTest: Device: bullhead
+                                                serialize:   duration -> 627812ns
+                                                             size -> 1353bytes
+                                                deserialize: duration -> 1346354ns
+05-03 20:16:36.201 8381-8395/? D/SerializeTest: Device: bullhead
+                                                serialize:   duration -> 537969ns
+                                                             size -> 1353bytes
+                                                deserialize: duration -> 1107396ns
+05-03 20:16:36.204 8381-8395/? D/SerializeTest: Device: bullhead
+                                                serialize:   duration -> 593907ns
+                                                             size -> 1353bytes
+                                                deserialize: duration -> 1454219ns
+
+--------
+
+05-03 20:16:50.062 24699-24713/? D/SerializeTest: Device: sprat
+                                                  serialize:   duration -> 54933333ns
+                                                               size -> 1353bytes
+                                                  deserialize: duration -> 2512083ns
+05-03 20:16:50.065 24699-24713/? D/SerializeTest: Device: sprat
+                                                  serialize:   duration -> 1196406ns
+                                                               size -> 1353bytes
+                                                  deserialize: duration -> 2260000ns
+05-03 20:16:50.069 24699-24713/? D/SerializeTest: Device: sprat
+                                                  serialize:   duration -> 1214948ns
+                                                               size -> 1353bytes
+                                                  deserialize: duration -> 2229896ns
+05-03 20:16:50.073 24699-24713/? D/SerializeTest: Device: sprat
+                                                  serialize:   duration -> 1173490ns
+                                                               size -> 1353bytes
+                                                  deserialize: duration -> 2157031ns
+05-03 20:16:50.077 24699-24713/? D/SerializeTest: Device: sprat
+                                                  serialize:   duration -> 1179219ns
+                                                               size -> 1353bytes
+                                                  deserialize: duration -> 2313802ns

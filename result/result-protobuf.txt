@@ -1,0 +1,43 @@
+05-04 16:35:42.960 13365-13379/? D/ProtoBufTest: Device: bullhead
+                                                 serialize:   duration -> 531875ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 278802ns
+05-04 16:35:42.971 13365-13379/? D/ProtoBufTest: Device: bullhead
+                                                 serialize:   duration -> 214115ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 150521ns
+05-04 16:35:42.973 13365-13379/? D/ProtoBufTest: Device: bullhead
+                                                 serialize:   duration -> 192761ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 138542ns
+05-04 16:35:42.976 13365-13379/? D/ProtoBufTest: Device: bullhead
+                                                 serialize:   duration -> 189636ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 137761ns
+05-04 16:35:42.979 13365-13379/? D/ProtoBufTest: Device: bullhead
+                                                 serialize:   duration -> 178541ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 130312ns
+
+--------
+
+05-04 16:36:00.046 18587-18600/? D/ProtoBufTest: Device: sprat
+                                                 serialize:   duration -> 1791302ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 985573ns
+05-04 16:36:00.099 18587-18600/? D/ProtoBufTest: Device: sprat
+                                                 serialize:   duration -> 827083ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 563698ns
+05-04 16:36:00.111 18587-18600/? D/ProtoBufTest: Device: sprat
+                                                 serialize:   duration -> 776875ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 523802ns
+05-04 16:36:00.120 18587-18600/? D/ProtoBufTest: Device: sprat
+                                                 serialize:   duration -> 771459ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 504062ns
+05-04 16:36:00.132 18587-18600/? D/ProtoBufTest: Device: sprat
+                                                 serialize:   duration -> 789531ns
+                                                              size -> 560bytes
+                                                 deserialize: duration -> 518125ns

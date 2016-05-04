@@ -1,0 +1,43 @@
+05-03 18:59:48.539 26758-26771/? D/MsgPackTest: Device: bullhead
+                                                serialize:   duration -> 662344ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 2472761ns
+05-03 18:59:48.542 26758-26771/? D/MsgPackTest: Device: bullhead
+                                                serialize:   duration -> 364531ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 1827552ns
+05-03 18:59:48.545 26758-26771/? D/MsgPackTest: Device: bullhead
+                                                serialize:   duration -> 367553ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 1745573ns
+05-03 18:59:48.548 26758-26771/? D/MsgPackTest: Device: bullhead
+                                                serialize:   duration -> 305417ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 1705625ns
+05-03 18:59:48.551 26758-26771/? D/MsgPackTest: Device: bullhead
+                                                serialize:   duration -> 317552ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 1658178ns
+
+--------
+
+05-03 19:00:03.118 22600-22618/? D/MsgPackTest: Device: sprat
+                                                serialize:   duration -> 1349531ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 5915155ns
+05-03 19:00:03.123 22600-22618/? D/MsgPackTest: Device: sprat
+                                                serialize:   duration -> 721771ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 4125729ns
+05-03 19:00:03.129 22600-22618/? D/MsgPackTest: Device: sprat
+                                                serialize:   duration -> 763385ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 4059011ns
+05-03 19:00:03.134 22600-22618/? D/MsgPackTest: Device: sprat
+                                                serialize:   duration -> 653541ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 4119218ns
+05-03 19:00:03.151 22600-22618/? D/MsgPackTest: Device: sprat
+                                                serialize:   duration -> 738959ns
+                                                             size -> 383bytes
+                                                deserialize: duration -> 4173125ns
